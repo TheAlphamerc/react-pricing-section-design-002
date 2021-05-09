@@ -1,4 +1,4 @@
-# React Signup Design 001
+# React Pricing Section Design 001
 
 This is a replication of [Pricing Section](https://dribbble.com/shots/14019613-Sign-up-form) by UI Design Daily in React.
 
